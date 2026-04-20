@@ -1,8 +1,24 @@
 ## Hey there! I'm Vitória👩‍💻
 
-- Systems Analysis and Development student at IFSP, passionate about technology and artificial intelligence. Currently working to improve my skills in modern development technologies.
+Systems Analysis and Development student at IFSP, focused on building real-world software solutions using modern web technologies.
 
-### 👾 Developing skills in
+I’m currently seeking my first opportunity as a **software developer intern or junior developer**, while continuously improving my skills in backend development, APIs, and scalable applications.
+
+---
+
+## 🧠 About Me
+
+* 🎓 Systems Analysis and Development student (IFSP)
+* 💡 Focused on backend development, APIs and web applications
+* 🔁 Currently strengthening my ability to build complete systems from scratch
+* 🌍 English fluent (open to international opportunities in the future)
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
 <img 
     align="left" 
@@ -52,6 +68,13 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
+<br clear="both"/>
+
+### Backend (learning & improving)
+
+Python • Java • Node.js (currently focusing on API development)
+
 <img 
     align="left" 
     alt="Python" 
@@ -60,7 +83,81 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img align="center" alt="java-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<br clear="both"/>
+
+### Tools
+
+Git • GitHub • REST APIs • Postman (learning)
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<br clear="both"/>
+
+---
+
+## 🚀 Currently Learning
+
+* Building RESTful APIs with Node.js
+* Software architecture basics (MVC, layered structure)
+* Authentication systems (JWT, sessions)
+* Database integration (SQL & NoSQL)
+* Best practices for scalable backend systems
+
+---
+
+## 📂 Featured Projects
+
+* 🧩 JobTrackr – Full-stack job application tracker built with Next.js, featuring authentication, Kanban workflow and real-time status management.
+Uses Better Auth and MongoDB to manage users and applications in a scalable architecture.
+* ✅ Task Manager App – React-based task management system with full CRUD operations, filtering and responsive UI for daily productivity control.
+* 🎨 Landing Page (React + shadcn/ui) – Modern responsive landing page focused on reusable components, clean UI design and conversion-oriented layout.
+* 🚗 Car Management System – Full-stack PHP application with database integration for managing vehicle records through complete CRUD operations.
+
+💬 “Focused on building, not just learning.”
 ---
 ### 💻 Statistics
 <p>
