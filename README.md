@@ -151,7 +151,7 @@ Git • GitHub • REST APIs • Postman (learning)
 
 ## 📂 Featured Projects
 
-* 🧩 JobTrackr – Full-stack job application tracker built with Next.js, featuring authentication, Kanban workflow and real-time status management.
+* 🧩 JobTracker – Full-stack job application tracker built with Next.js, featuring authentication, Kanban workflow and real-time status management.
 Uses Better Auth and MongoDB to manage users and applications in a scalable architecture.
 * ✅ Task Manager App – React-based task management system with full CRUD operations, filtering and responsive UI for daily productivity control.
 * 🎨 Landing Page (React + shadcn/ui) – Modern responsive landing page focused on reusable components, clean UI design and conversion-oriented layout.
