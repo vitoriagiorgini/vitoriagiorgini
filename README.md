@@ -157,7 +157,7 @@ Uses Better Auth and MongoDB to manage users and applications in a scalable arch
 * 🎨 Landing Page (React + shadcn/ui) – Modern responsive landing page focused on reusable components, clean UI design and conversion-oriented layout.
 * 🚗 Car Management System – Full-stack PHP application with database integration for managing vehicle records through complete CRUD operations.
 
-💬 “Focused on building, not just learning.”
+💬 “Focused on learning, not just building.”
 ---
 ### 💻 Statistics
 <p>
