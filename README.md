@@ -2,7 +2,9 @@
 
 <div align="center">
 
- Full Stack Developer focused on backend development with **Node.js** and **TypeScript**, passionate about building scalable web applications and REST APIs.
+<img src="./vitoria-dev.gif" width="600" alt="Vídeo de apresentação da Vitória" />
+
+ I'm a Full Stack Developer focused on backend development with **Node.js** and **TypeScript**, passionate about building scalable web applications and REST APIs.
 
  ✨ *Faith gives me purpose. Persistence moves me forward.* 
 
@@ -87,12 +89,6 @@ Git • GitHub • Postman • VS Code • Docker
 | ✅ **Task Manager** | React CRUD application with filtering, responsive UI and reusable components. |
 | 🎨 **Landing Page** | Responsive React + Tailwind + shadcn/ui landing page focused on reusable components. |
 | 🚗 **Car Management System** | PHP + MySQL CRUD application for vehicle management. |
-
----
-
-# 📊 Statistics
-
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=vitoriagiorgini&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" /> <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagiorgini&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" /> </p> <br clear="both"/>
 
 ---
 
