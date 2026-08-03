@@ -4,7 +4,7 @@
 
 <img src="./vitoria-dev.gif" width="600" alt="Vídeo de apresentação da Vitória" />
 
- I'm a Full Stack Developer focused on backend development with **Node.js** and **TypeScript**, passionate about building scalable web applications and REST APIs.
+I'm a Backend Developer passionate about solving real-world problems and continuously improving my software engineering skills with Node.js and TypeScript.
 
  ✨ *Faith gives me purpose. Persistence moves me forward.* 
 
@@ -18,8 +18,8 @@
 
 - 🎓 Systems Analysis and Development student (IFSP)
 - 💡 Focused on backend development, APIs and web applications
-- 🚀 Building complete systems and improving every day
-- 🌍 Fluent in English (open to international opportunities)
+- 🚀 Building scalable APIs and real-world backend applications
+- 🌍 Fluent in English | Open to international opportunities
 
 ---
 
@@ -45,13 +45,13 @@ CSS • JavaScript • React • Tailwind CSS • Bootstrap
 
 ## Backend
 
-Node.js • TypeScript • Express • PostgreSQL • REST APIs • JWT
+Node.js • TypeScript • Express • PostgreSQL • REST APIs 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="42"/>
+
 
 </td>
 
@@ -59,13 +59,13 @@ Node.js • TypeScript • Express • PostgreSQL • REST APIs • JWT
 
 ## Tools
 
-Git • GitHub • Postman • VS Code • Docker
+Git • GitHub • Postman • VS Code 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+
 
 </td>
 </tr>
@@ -75,9 +75,9 @@ Git • GitHub • Postman • VS Code • Docker
 
 # 🚀 Currently Learning
 
-| REST APIs | Architecture | Authentication | Databases | Best Practices |
+| Backend  | Databases | Architecture | Software Engineering | Dev Tools |
 |-----------|--------------|----------------|-----------|----------------|
-| Node.js & Express | MVC & Layered | JWT & Sessions | PostgreSQL & MongoDB | Clean Code & Scalability |
+| Node.js & Express | PostgreSQL  | Layered Architecture | Clean Code & Scalability |  Git & Postman |
 
 ---
 
@@ -85,10 +85,10 @@ Git • GitHub • Postman • VS Code • Docker
 
 | Project | Description |
 |---------|-------------|
-| 🧩 **JobTracker** | Full-stack job tracker built with Next.js, Better Auth and MongoDB featuring authentication, Kanban workflow and real-time status management. |
-| ✅ **Task Manager** | React CRUD application with filtering, responsive UI and reusable components. |
+| 🧩 **JobTracker** | Full-stack application for managing job applications, featuring authentication, Kanban workflow, database integration and scalable project organization.|
+| ✅ **CRUD Backend** | Professional Backend API built with Node.js, TypeScript, Express.js and PostgreSQL following Layered Architecture and REST principles.|
 | 🎨 **Landing Page** | Responsive React + Tailwind + shadcn/ui landing page focused on reusable components. |
-| 🚗 **Car Management System** | PHP + MySQL CRUD application for vehicle management. |
+| 🚗 **Car Management System** | Vehicle management system developed with PHP and MySQL following the MVC architecture.|
 
 ---
 
